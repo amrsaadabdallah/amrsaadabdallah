@@ -14,9 +14,7 @@
 
 <h2 align="center">🛠️ My Skills</h2>
 
-<br>
-
-<h4>👉 Languages:</h4>
+<h4>👉&nbsp;Languages:</h4>
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -39,8 +37,7 @@
   </a>
 </p>
 
-<section style="display: flex; align-items: center ; gap: 25px; flex-wrap: wrap">
-<h3 style="margin: 0">👉 &nbsp;CSS/UI frameworks : </h3>
+<h4>👉&nbsp;CSS/UI frameworks : </h4>
 <p>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-533979?style=for-the-badge&logo=Bootstrap&logoColor=white"/> </a>
 &emsp;
@@ -48,10 +45,8 @@
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-19B5B2?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   </a>
 </p>
-</section>
 
-<section style="display: flex; align-items: center ; gap: 25px; flex-wrap: wrap">
-<h3 style="margin: 0">👉 &nbsp;JS Libraries : </h3>
+<h4>👉&nbsp;JS Libraries : </h4>
 <p>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  <img alt="React" src="https://img.shields.io/badge/React-00d8ff?style=for-the-badge&logo=React&logoColor=white"/> </a>
 &emsp;
@@ -67,10 +62,8 @@
     <img alt="=JQuery" src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white"/>
   </a>
 </p>
-</section>
 
-<section style="display: flex; align-items: center ; gap: 25px; flex-wrap: wrap">
-<h3 style="margin: 0">👉 &nbsp;Bundling tools </h3>
+<h4>👉&nbsp;Bundling tools </h4>
 <p>
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer">  <img alt="Webpack" src="https://img.shields.io/badge/Webpack-00d8ff?style=for-the-badge&logo=Webpack&logoColor=white"/> </a>
 &emsp;
@@ -79,10 +72,8 @@
   </a>
   &emsp;
   </p>
-  </section>
 
-<section style="display: flex; align-items: center ; gap: 25px; flex-wrap: wrap">
-<h3 style="margin: 0">👉 &nbsp;Formating, Linting & transpiling Tools</h3>
+<h4>👉&nbsp;Formating, Linting & transpiling Tools</h3>
 <p>
 <a href="https://prettier.io/" target="_blank" rel="noreferrer">  <img alt="prettier" src="https://img.shields.io/badge/prettier-56B3B4?style=for-the-badge&logo=prettier&logoColor=white"/> </a>
 &emsp;
@@ -93,10 +84,8 @@
   </a>
   &emsp;
   </p>
-  </section>
 
-<section style="display: flex; align-items: center ; gap: 25px; flex-wrap: wrap">
-<h3 style="margin: 0">👉 &nbsp;Version control systems:</h3>
+<h4 >👉&nbsp;Version control systems:</h4>
 <p>
 <a href="https://git-scm.com" target="_blank" rel="noreferrer">
 <img alt="Git" src="https://img.shields.io/badge/Git-c9510c?style=for-the-badge&logo=Git&logoColor=white"/>
@@ -108,10 +97,8 @@
   </a>
   &emsp;
 </p>
-</section>
 
-<section style="display: flex; align-items: center ; gap: 25px; flex-wrap: wrap">
-<h3 style="margin: 0">👉 &nbsp; Task runners:</h3>
+<h4>👉 &nbsp; Task runners:</h4>
 <p>
 <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img alt="Gulp" src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=Gulp&logoColor=white"/> </a>
 &emsp;
@@ -119,24 +106,18 @@
 <img alt="=npm scripts" src="https://img.shields.io/badge/NPM scripts-333333?style=for-the-badge&logo=NPM&logoColor=white"/>
 </a>
 &emsp;
-
 </p>
-</section>
 
-<section style="display: flex; align-items: center ; gap: 25px; flex-wrap: wrap">
-<h3 style="margin: 0">👉&nbsp;Package Managers:</h3>
+<h4>👉&nbsp;Package Managers:</h4>
 <p>
 <a href="https://docs.npmjs.com">
     <img alt="=npm" src="https://img.shields.io/badge/NPM-333333?style=for-the-badge&logo=NPM&logoColor=white"/>
   </a>
  &emsp;
 <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white"/> </a>
-
 </p>
-</section>
 
-<section style="display: flex; align-items: center ; gap: 25px; flex-wrap: wrap">
-<h3 style="margin: 0">👉&nbsp;IDEs:</h3>
+<h4>👉&nbsp;IDEs:</h4>
 <p>
 <a href="https://code.visualstudio.com">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/visualstudiocode-0066B8?style=for-the-badge&logo=visual studio code&logoColor=white"/>
@@ -150,10 +131,8 @@
 <img alt="codeblocks" src="https://img.shields.io/badge/codeblocks-A33536?style=for-the-badge&logo=codeblocks&logoColor=white"/>
 </a>
 </p>
-</section>
 
-<section style="display: flex; align-items: center ; gap: 25px; flex-wrap: wrap">
-<h3 style="margin: 0">👉&nbsp;Task manager:</h3>
+<h4>👉&nbsp;Task manager:</h4>
 <p>
 <a href="https://code.visualstudio.com">
     <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
@@ -167,7 +146,6 @@
 <img alt="googlekeep" src="https://img.shields.io/badge/googlekeep-FBBC04?style=for-the-badge&logo=googlekeep&logoColor=white"/>
 </a>
 </p>
-</section>
 
 ---
 
