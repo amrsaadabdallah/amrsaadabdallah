@@ -1,5 +1,230 @@
 <img src="assets/banner.png" alt="amr saad banner">
 
+<h1 align="center">Hello 👋, I'm Amr Saad Saad Abdallah</h1>
+<h4 align="center">A passionate frontend developer from Egypt</h4>
+              <!-- <p align="center">    <img src='https://routeegypt.com/pinkboatIMG/geeks.png' width="300"/></p> -->
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrsaadabdallah&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmuti" /> </p> -->
+<p  align="center" style="margin-bottom: 10px">   <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  /> </p>
+
+<br>
+<br>
+
+---
+
+<h2 align="center">🛠️ My Skills</h2>
+
+<br>
+
+<section style="display: flex; align-items: center ; justify-content: space-between; gap: 25px; flex-wrap: wrap">
+<h3 style="margin: 0">👉 languages</h3>
+<p style="margin: auto">
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+&emsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-2299F8?style=for-the-badge&logo=CSS3&logoColor=white"/>
+  </a>
+  &emsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img alt="JS" src="https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=Javascript&logoColor=white"/>
+  </a>
+    &emsp;
+<a href="https://www.tutorialspoint.com/cprogramming/index.htm">
+    <img alt="C" src="https://img.shields.io/badge/Programming-5766B6?style=for-the-badge&logo=C&logoColor=white"/>
+  </a>
+ &emsp;
+<a href="https://www.python.org">
+    <img alt="Python" src="https://img.shields.io/badge/ Python-F2A22C?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+
+</p>
+</section >
+
+<br><br>
+
+<section style="display: flex; align-items: center ; justify-content: space-between; gap: 25px; flex-wrap: wrap">
+<h3 style="margin: 0">👉 &nbsp;CSS/UI frameworks : </h3>
+<p style="margin: auto"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-533979?style=for-the-badge&logo=Bootstrap&logoColor=white"/> </a>
+&emsp;
+<a href="https://tailwindcss.com/">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-19B5B2?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  </a>
+</p>
+</section>
+
+<br><br>
+
+<section style="display: flex; align-items: center ; justify-content: space-between; gap: 25px; flex-wrap: wrap">
+<h3 style="margin: 0">👉 &nbsp;JS Libraries : </h3>
+<p style="margin: auto"><a href="https://reactjs.org/" target="_blank" rel="noreferrer">  <img alt="React" src="https://img.shields.io/badge/React-00d8ff?style=for-the-badge&logo=React&logoColor=white"/> </a>
+&emsp;
+<a href="https://redux.js.org">
+    <img alt="=Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://mui.com">
+    <img alt="=MUI" src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=MUI&logoColor=white"/>
+  </a>
+  &emsp;
+<a href="https://jquery.com">
+    <img alt="=JQuery" src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white"/>
+  </a>
+</p>
+</section>
+
+<br><br>
+
+<section style="display: flex; align-items: center ; justify-content: space-between; gap: 25px; flex-wrap: wrap">
+<h3 style="margin: 0">👉 &nbsp;Bundling tools </h3>
+<p style="margin: auto"><a href="https://webpack.js.org" target="_blank" rel="noreferrer">  <img alt="Webpack" src="https://img.shields.io/badge/Webpack-00d8ff?style=for-the-badge&logo=Webpack&logoColor=white"/> </a>
+&emsp;
+<a href="https://parceljs.org/">
+    <img alt="=parceljs" src="https://img.shields.io/badge/parceljs-764ABC?style=for-the-badge&logo=parceljs&logoColor=white"/>
+  </a>
+  &emsp;
+  </p>
+  </section>
+
+<br><br>
+
+<section style="display: flex; align-items: center ; justify-content: space-between; gap: 25px; flex-wrap: wrap">
+<h3 style="margin: 0">👉 &nbsp;Formating, Linting & transpiling Tools</h3>
+<p style="margin: auto">
+<a href="https://prettier.io/" target="_blank" rel="noreferrer">  <img alt="prettier" src="https://img.shields.io/badge/prettier-56B3B4?style=for-the-badge&logo=prettier&logoColor=white"/> </a>
+&emsp;
+<a href="https://eslint.org/" target="_blank" rel="noreferrer">  <img alt="ESlint" src="https://img.shields.io/badge/ESlint-3A1758?style=for-the-badge&logo=ESlint&logoColor=white"/> </a>
+&emsp;
+<a href="https://babeljs.io/">
+    <img alt="=babeljs" src="https://img.shields.io/badge/babel-EACF3B?style=for-the-badge&logo=babel&logoColor=white"/>
+  </a>
+  &emsp;
+  </p>
+  </section>
+
+<br><br>
+
+<section style="display: flex; align-items: center ; justify-content: space-between; gap: 25px; flex-wrap: wrap">
+<h3 style="margin: 0">👉 &nbsp;Version control systems:</h3>
+
+<p style="margin: auto">
+<a href="https://git-scm.com" target="_blank" rel="noreferrer">
+<img alt="Git" src="https://img.shields.io/badge/Git-c9510c?style=for-the-badge&logo=Git&logoColor=white"/>
+</a>
+&emsp;
+<a href="https://github.com">
+    <img alt="=Github"
+    src="https://img.shields.io/badge/Github-4078c0?style=for-the-badge&logo=Github&logoColor=white"/>
+  </a>
+  &emsp;
+</p>
+</section>
+
+<br><br>
+
+<section style="display: flex; align-items: center ; justify-content: space-between; gap: 25px; flex-wrap: wrap">
+<h3 style="margin: 0">👉 &nbsp; Task runners:</h3>
+<p style="margin: auto">
+<a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img alt="Gulp" src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=Gulp&logoColor=white"/> </a>
+&emsp;
+<a href="https://docs.npmjs.com/cli/v8/using-npm/scripts">
+<img alt="=npm scripts" src="https://img.shields.io/badge/NPM scripts-333333?style=for-the-badge&logo=NPM&logoColor=white"/>
+</a>
+&emsp;
+
+</p>
+</section>
+
+<br><br>
+
+<section style="display: flex; align-items: center ; justify-content: space-between; gap: 25px; flex-wrap: wrap">
+<h3 style="margin: 0">👉&nbsp;Package Managers:</h3>
+<p style="margin: auto">
+<a href="https://docs.npmjs.com">
+    <img alt="=npm" src="https://img.shields.io/badge/NPM-333333?style=for-the-badge&logo=NPM&logoColor=white"/>
+  </a>
+ &emsp;
+<a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white"/> </a>
+
+</p>
+</section>
+
+<br><br>
+
+<section style="display: flex; align-items: center ; justify-content: space-between; gap: 25px; flex-wrap: wrap">
+<h3 style="margin: 0">👉&nbsp;IDEs:</h3>
+<p style="margin: auto">
+<a href="https://code.visualstudio.com">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/visualstudiocode-0066B8?style=for-the-badge&logo=visual studio code&logoColor=white"/>
+  </a>
+ &emsp;
+<a href="https://www.eclipse.org" target="_blank" rel="noreferrer">
+<img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-F7941E?style=for-the-badge&logo=Eclipse&logoColor=white"/>
+</a>
+&emsp;
+<a href="https://www.codeblocks.org" target="_blank" rel="noreferrer">
+<img alt="codeblocks" src="https://img.shields.io/badge/codeblocks-A33536?style=for-the-badge&logo=codeblocks&logoColor=white"/>
+</a>
+</p>
+</section>
+
+<br><br>
+
+<section style="display: flex; align-items: center ; justify-content: space-between; gap: 25px; flex-wrap: wrap">
+<h3 style="margin: 0">👉&nbsp;Task manager:</h3>
+<p style="margin: auto">
+<a href="https://code.visualstudio.com">
+    <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+  </a>
+ &emsp;
+<a href="https://trello.com/" target="_blank" rel="noreferrer">
+<img alt="Trello" src="https://img.shields.io/badge/Trello-0A5FDA?style=for-the-badge&logo=Trello&logoColor=white"/>
+</a>
+&emsp;
+<a href="https://keep.google.com/" target="_blank" rel="noreferrer">
+<img alt="googlekeep" src="https://img.shields.io/badge/googlekeep-FBBC04?style=for-the-badge&logo=googlekeep&logoColor=white"/>
+</a>
+</p>
+</section>
+
+<br><br>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmuti&show_icons=true&locale=en&layout=compact" alt="ahmedmuti" /></p>
+
+---
+
+<h3>🧑&nbsp;About Me: </h3>
+
+---
+
+---
+
+ <div align="center">
+<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
+ <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/backbonejs/backbonejs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<br />
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+<br />
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code><br />
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/gruntjs/gruntjs-ar21.svg"></code>
+<br />
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg"></code>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <br>
+
+---
+
 <h3>🧑&nbsp;About Me: </h3>
 
 - 😄 Pronouns: She/Her/Hers
@@ -11,6 +236,17 @@
 - 🌍 I support: Latinas in Tech, AllStar Code, The Foundation to Decrease Worldsuck
 - 💜 Interests: philosophy, travel, dachshunds, internet culture, video games, Star Trek
 - Github visitors : ![Github visitors](https://visitor-badge.glitch.me/badge?page_id=amrsaadabdallah.amrsaadabdallah)
+
+## 👉 CSS/UI frameworks
+
+<p align="left">
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+&emsp;
+
+</p>
 
 - ## ⚡ Fun fact: My ultimate dream is to be on Star Trek and dawn a yellow uniform. 🖖
 <ul>
@@ -103,29 +339,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
----
-
----
-
- <div align="center">
-<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
- <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
-<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/backbonejs/backbonejs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code><br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/gruntjs/gruntjs-ar21.svg"></code>
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg"></code>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <br>
 
 ---
 
