@@ -1,3 +1,5 @@
+<img src="assets/banner.png" alt="amr saad banner">
+
 ### hey there
 
 <a href="https://www.instagram.com/abhisheknaiidu/">
