@@ -2,8 +2,6 @@
 <br />
 
  <p align="center">
-<!-- <a href="github.com/amrsaadabdallah" target="_blank" rel="noreferrer"> <img alt="account age" src="https://badges.pufler.dev/years/amrsaadabdallah/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"/> </a>
-&emsp; -->
 <a href="github.com/amrsaadabdallah" target="_blank" rel="noreferrer"> <img alt="public repos" src="https://badges.pufler.dev/repos/amrsaadabdallah/?style=for-the-badge&color=27a4fb&logo=github&label=Public+Repos"/> </a>
 &emsp;
 <a href="github.com/amrsaadabdallah" target="_blank" rel="noreferrer"> <img alt="profile updated" src="https://badges.pufler.dev/updated/amrsaadabdallah/amrsaadabdallah?style=for-the-badge&color=27a4fb&logo=github&label=Profile+Updated"/> </a>
@@ -202,94 +200,17 @@
 
    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amrsaadabdallah&theme=tokyonight"/>
 
-  <!-- <img height="180em" alt="amrsaadabdallah's Github Statistics" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amrsaadabdallah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
-
-  <!-- <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amrsaadabdallah&theme=tokyonight"/> -->
-
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amrsaadabdallah&layout=compact&langs_count=8&theme=tokyonight"/>
 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=amrsaadabdallah&theme=tokyonight&date_format=j%20M%5B%20Y%5D"/>
-
-   <!-- <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amrsaadabdallah&theme=tokyonight&utcOffset=8"/> -->
 </a>
 </p>
-
-<!-- ### 📊 Github Stats
-
-  <p align="center">
-    <a href="https://github.com/amrsaadabdallah/github-readme-stats"><img alt="amrsaadabdallah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amrsaadabdallah&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
-  </p> -->
-
-<!-- ### 📈 GitHub Activity Graph
-
-<a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amrsaadabdallah&custom_title=7oSkaaa's%20Contribution%20Graph&theme=tokyonight" /></a> -->
 
 <img src="./assets/ruler.gif">
 
 ### 🏆 Git profile Trophies
 
 <p align="center"> <a href="https://github.com/amrsaadabdallah"><img src="https://github-profile-trophy.vercel.app/?username=amrsaadabdallah&layout=compact&theme=tokyonight" alt="amrsaadabdallah" /></a> </p>
-
-<!-- <img src="./assets/ruler.gif">
-
-
-<br />
- <h2 align="center">😎 you can reach me by:</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://fb.com/amrsaadabdallah" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://mailto:azzar.mr.zs@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://wa.me/+6282232529804" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <br>
-    </p>
-  </samp>
-</div>
-
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-
-<p align="center">
-	<a href="mailto:ahmed.7oskaa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
-</p>
-
-<hr/>
-<br/>
-## 🙋‍♀️ Let's Connect
-
-<p align="center">
-  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-
-</p> -->
 
 <img src="./assets/ruler.gif">
 
@@ -304,7 +225,7 @@
 &nbsp;
 <a href="https://twitter.com/amrsaadabdallah"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 &nbsp;
-<a href="tel::01097756067"><img src="https://img.shields.io/badge/whatsapp-45C554?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
+<a href="tel:+201097756067"><img src="https://img.shields.io/badge/(+20) 1097756067-45C554?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
 &nbsp;
 <a href="https://medium.com/@amrsaadabdallah"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 &nbsp;
@@ -313,42 +234,3 @@
 <a href="https://dev.to/amrsaadabdallah"><img src="https://img.shields.io/badge/DEV.to-000000?style=for-the-badge&logo=DEV.to&logoColor=white" alt="DEV.to" /></a>
 &nbsp;
 </p>
-
-<!-- <img src="./assets/ruler.gif">
-
-
-<i>Follow me around the web:</i><br>
-
-<div align="center">
-<a href="https://www.linkedin.com/in/absphreak" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://www.instagram.com/absphreak" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://www.facebook.com/originalphreak" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank">
-<img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
-</a>
-<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-</div>
-
-<img src="./assets/ruler.gif">
- -->
-
-<!-- ### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
-</p> -->
-
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=amrsaadabdallah.amrsaadabdallah) -->
-<!-- [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664) -->
