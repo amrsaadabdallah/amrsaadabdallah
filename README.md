@@ -1,16 +1,86 @@
+<div  align="center">
+<!-- <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  /> -->
 <img src="assets/banner.png" alt="amr saad banner">
+</div>
+
+<br/>
+
+ <p align="center">
+<a href="github.com/amrsaadabdallah">
+    <img alt="=npm" src="https://visitor-badge.glitch.me/badge?page_id=amrsaadabdallah.amrsaadabdallah" height="27px"/>
+  </a>
+ &emsp;
+<a href="github.com/amrsaadabdallah" target="_blank" rel="noreferrer"> <img alt="account age" src="https://badges.pufler.dev/years/amrsaadabdallah/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"/> </a>
+&emsp;
+<a href="github.com/amrsaadabdallah" target="_blank" rel="noreferrer"> <img alt="public repos" src="https://badges.pufler.dev/repos/amrsaadabdallah/?style=for-the-badge&color=27a4fb&logo=github&label=Public+Repos"/> </a>
+&emsp;
+<a href="github.com/amrsaadabdallah" target="_blank" rel="noreferrer"> <img alt="profile updated" src="https://badges.pufler.dev/updated/amrsaadabdallah/amrsaadabdallah?style=for-the-badge&color=27a4fb&logo=github&label=Profile+Updated"/> </a>
+&emsp;
+<a href="github.com/amrsaadabdallah" target="_blank" rel="noreferrer"> <img alt="followers" src="https://img.shields.io/github/followers/amrsaadabdallah?label=Follow&style=social" height="27px"/> </a>
+</p>
 
 <h1 align="center">Hello 👋, I'm Amr Saad Saad Abdallah</h1>
 <h4 align="center">A passionate Frontend developer from Egypt</h4>
-              <!-- <p align="center">    <img src='https://routeegypt.com/pinkboatIMG/geeks.png' width="300"/></p> -->
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrsaadabdallah&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmuti" /> </p> -->
-<p  align="center" style="margin-bottom: 10px">   <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  /> </p>
+ <!-- <p align="center">
+ <a href="github.com/amrsaadabdallah" target="blank"><img
+     src="https://visitor-badge.glitch.me/badge?page_id=amrsaadabdallah.amrsaadabdallah"
+     alt="github visitors" /></a>
 
-<br>
-<br>
+<a href="github.com/amrsaadabdallah" target="blank"><img
+     src="https://badges.pufler.dev/years/amrsaadabdallah/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
+     alt="account age" /></a>
 
----
+<a href="github.com/amrsaadabdallah" target="blank"><img
+     src="https://badges.pufler.dev/repos/amrsaadabdallah/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
+     alt="repos" /></a>
+
+<a href="github.com/amrsaadabdallah" target="blank"><img
+     src="https://badges.pufler.dev/updated/amrsaadabdallah/amrsaadabdallah?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
+     alt="updated" /></a>
+
+ </p> -->
+
+<!-- <br> -->
+
+<!-- <img src="Assets/ruler.gif"> -->
+
+<img align="right" alt="GIF" width="400"  height="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  />
+
+###⚡&nbsp;About Me:
+
+- 👨‍💻 **I’m currently working as a freelancer frontend developer and Instructor.**.
+- 🌱 **I’m currently self-study**: Typescript & NextJS.
+- 💖 **My favorite language: Javascript**.
+- 👯 **I’m looking to collaborate on Open Source Projects**.
+- 👀 **Have a look on my portofolio**<a href="https://amrsaadabdallah.github.io"> My Website</a>.
+- 🔎 **I’m currently open for**: A new job opportunity, contact Me <a href="https://www.linkedin.com/in/amrsaadabdallah">LinkedIn</a>.
+- 💼 **Any freelance work?** <a href="mailto:amrsaadabdallah@gmail.com">Email Me</a> with title **"freelance work"**.
+- 💬 **Ask me about anything:** <a href="mailto:amrsaadabdallah@gmail.com">Email Me</a> with title **"Ask"** and I will be happy to help you.
+- ⚡ **Fun fact**: I love Codeing(💻), Traveling(🌍), Walking(🚶‍♂️) and Cooking(🍕).
+
+<img src="Assets/ruler.gif">
+
+<h3 >👨‍💻&nbsp;Profile Overview: </h3>
+
+<div align=left style="font-style: italic; font-weight: 600; margin-top: 20px;margin-left: 10px">
+    <p>
+     Hello, this is <a href="https://amrsaadabdallah.github.io">Amr Saad Abdallah</a> a Frontend developer from Egypt and I have a passion for programming and code, always looking for new tools and improve my skills through continuous self-learning and code a long, design responsive websites using HTML5, CSS3, Sass, Bootstrap, Tailwind CSS, JavaScript, ES6, and also JS frameworks like ReactJS.
+      <br><br>
+      I'm  seeking a job opportunity in a supportive and co-operative environment in Web Development field as a new challenge, where I can utilize my skills and knowledge efficiently for organizational growth and enable me taking significant contribution at the company that I will join and help me to achieve more progress and success.
+      <br><br>
+      I hold Bachelor of Communications Engineering of Fayoum University with Accumulative Grade Very Good with High Honors. And also holds a 9-Month Diploma from Information Technology Institute (ITI), Wireless Communications Track, Suez Canal Branch, Intake 35, and Ranked 1st of the track.<br><br>
+      My studies in ITI enabled me to work under pressure, Ability to work as an effective team member and individual, the ability to adapt to changing work environments.
+      <br><br>
+      I worked more than three years in RF field at Red Telecom company in Huawei Multi-Vendor Project but I decided to search about a new challenge in a new field as the RF didn't fill my passion I choose “web development” field to be the new challenge. So, I started to invest in myself by taking a frontend diploma at route academy and take training at Eraasoft academy and continuous self-learning from YouTube Tutorials & Udemy courses.
+      <br><br>
+      Plus, I experience of more than 3 years in voluntary work as a Volunteer in “LIFE MAKERS” Organization from 2011, which provided me with how to deal with people and take responsibility and people management and distribution of tasks.
+      <br><br>
+      I joined the Egyptian army and my service period given me patience and bear responsibility, order and discipline and how to deal with top-level.
+  </p>
+</div>
+
+<img src="Assets/ruler.gif">
 
 <h2 align="center">🛠️ My Skills</h2>
 
@@ -147,125 +217,162 @@
 </a>
 </p>
 
----
+<img src="Assets/ruler.gif">
 
- <div align="center">
-<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
- <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
-<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/backbonejs/backbonejs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/amrsaadabdallah">
+ <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amrsaadabdallah&theme=github"/>
+
+   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amrsaadabdallah&theme=github"/>
+
+  <!-- <img height="180em" alt="amrsaadabdallah's Github Statistics" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amrsaadabdallah&show_icons=true&theme=github&include_all_commits=true&count_private=true"/> -->
+
+  <!-- <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amrsaadabdallah&theme=github"/> -->
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amrsaadabdallah&layout=compact&langs_count=8&theme=github"/>
+
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=amrsaadabdallah&theme=github&date_format=j%20M%5B%20Y%5D"/>
+
+   <!-- <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amrsaadabdallah&theme=github&utcOffset=8"/> -->
+</a>
+</p>
+
+<!-- ### 📊 Github Stats
+
+  <p align="center">
+    <a href="https://github.com/amrsaadabdallah/github-readme-stats"><img alt="amrsaadabdallah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amrsaadabdallah&show_icons=true&count_private=true&theme=github" height="192px"/></a>
+  </p> -->
+
+<!-- ### 📈 GitHub Activity Graph
+
+<a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amrsaadabdallah&custom_title=7oSkaaa's%20Contribution%20Graph&theme=github" /></a> -->
+
+<img src="Assets/ruler.gif">
+
+### 🏆 Git profile Trophies
+
+<p align="center"> <a href="https://github.com/amrsaadabdallah"><img src="https://github-profile-trophy.vercel.app/?username=amrsaadabdallah&layout=compact&theme=github" alt="amrsaadabdallah" /></a> </p>
+
+<!-- <img src="Assets/ruler.gif">
+
 <br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code><br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/gruntjs/gruntjs-ar21.svg"></code>
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg"></code>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <br>
-
----
-
-<h3>🧑&nbsp;About Me: </h3>
-
-- 😄 Pronouns: She/Her/Hers
-- 🔭 I’m currently working on: an NLP sentiment analysis project
-- :heart: My favorite language: SQL
-- 🌱 I’m currently learning: nueral nets and Mandarin
-- 👯 I’m always looking to collaborate with: scientist from any field
-- 💬 Ask me about: anything, I am happy to help
-- 🌍 I support: Latinas in Tech, AllStar Code, The Foundation to Decrease Worldsuck
-- 💜 Interests: philosophy, travel, dachshunds, internet culture, video games, Star Trek
-- Github visitors : ![Github visitors](https://visitor-badge.glitch.me/badge?page_id=amrsaadabdallah.amrsaadabdallah)
-
-# ⚡ Fun fact: My ultimate dream is to be on Star Trek and dawn a yellow uniform. 🖖
-
-<ul>
-     <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
-     <li>🎯 <b>I’m currently focusing on</b>: <a href="https://ahmedfathydev.github.io/Problem-Solving/">Problem-Solving</a>, ⭐️ star the projects if you like it 🤩.</li>
-     <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">LINK TO MY RESUME</a>.</li>
-     <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/ahmedfathydev/ahmedfathydev/issues">Here</a>.</li>
-     <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-     <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Photography(📷).</li>
-     <li>👨‍💻 <b>Hire me for Full Stack Development jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580755107926016">Link to my UpWork Full Stack Development Specialization</a>.</li>
- </ul>
-
----
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-- 💼 Any freelance work? contact me by [Email](mailto:amrsaadabdallah@gmail.com) with title "freelance work"
-- 💬 ask me about anything, [Email](mailto:amrsaadabdallah@gmail.com) with title "Ask" and I will be happy to help you;
-
----
-
-<h3 >👨‍💻&nbsp;Profile Overview: </h3>
-
-<div align=left style="font-style: italic; font-weight: 600; margin-top: 20px;margin-left: 10px">
-    <p>
-     Hello, this is <a href="https://amrsaadabdallah.github.io">Amr Saad Abdallah</a> a Frontend developer from Egypt and I have a passion for programming and code, always looking for new tools and improve my skills through continuous self-learning and code a long, design responsive websites using HTML5, CSS3, Sass, Bootstrap, Tailwind CSS, JavaScript, ES6, and also JS frameworks like ReactJS.
-      <br><br>
-      I'm  seeking a job opportunity in a supportive and co-operative environment in Web Development field as a new challenge, where I can utilize my skills and knowledge efficiently for organizational growth and enable me taking significant contribution at the company that I will join and help me to achieve more progress and success.
-      <br><br>
-      I hold Bachelor of Communications Engineering of Fayoum University with Accumulative Grade Very Good with High Honors. And also holds a 9-Month Diploma from Information Technology Institute (ITI), Wireless Communications Track, Suez Canal Branch, Intake 35, and Ranked 1st of the track.<br><br>
-      My studies in ITI enabled me to work under pressure, Ability to work as an effective team member and individual, the ability to adapt to changing work environments.
-      <br><br>
-      I worked more than three years in RF field at Red Telecom company in Huawei Multi-Vendor Project but I decided to search about a new challenge in a new field as the RF didn't fill my passion I choose “web development” field to be the new challenge. So, I started to invest in myself by taking a frontend diploma at route academy and take training at Eraasoft academy and continuous self-learning from YouTube Tutorials & Udemy courses.
-      <br><br>
-      Plus, I experience of more than 3 years in voluntary work as a Volunteer in “LIFE MAKERS” Organization from 2011, which provided me with how to deal with people and take responsibility and people management and distribution of tasks.
-      <br><br>
-      I joined the Egyptian army and my service period given me patience and bear responsibility, order and discipline and how to deal with top-level.
-  </p>
+ <h2 align="center">😎 you can reach me by:</h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://fb.com/amrsaadabdallah" target="blank"><img align="center"
+         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://mailto:azzar.mr.zs@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+    </p>
+  <p align="center">
+      <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://wa.me/+6282232529804" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center"
+         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <br>
+    </p>
+  </samp>
 </div>
 
----
 
-📊 **this week i spent my time on:**
 
-<!--START_SECTION:waka-->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
-```text
-TypeScript   5 hrs 45 mins   ████████████████░░░░░░░░░   64.61 %
-JavaScript   2 hrs 18 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.00 %
-CSS          30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-HTML         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
+<p align="center">
+	<a href="mailto:ahmed.7oskaa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
+</p>
 
-<!--END_SECTION:waka-->
+<hr/>
+<br/>
+## 🙋‍♀️ Let's Connect
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<p align="center">
+  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+</p> -->
 
-🚧 **my todoist stats:**
-
-<!-- TODO-IST:START -->
-
-🏆 7,995 Karma Points
-🌸 Completed 0 tasks today
-✅ Completed 673 tasks so far
-⏳ Longest streak is 10 days
-
-<!-- TODO-IST:END -->
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
----
+<br>
+<img src="Assets/ruler.gif">
+<br>
 
  <h4>🤝🏻&nbsp;Contact with Me : </h4>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anjcray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://twitter.com/DataOnATangent"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://dataonatangent.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
-<a href="mailto:dataonatangent@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
+<a href="https://amrsaadabdallah.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
+&nbsp;
+<a href="mailto:amrsaadabdallah@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/amrsaadabdallah"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://twitter.com/amrsaadabdallah"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+&nbsp;
+<a href="tel::01097756067"><img src="https://img.shields.io/badge/whatsapp-45C554?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
+&nbsp;
+<a href="mailto::amrsaadabdallah@gmail.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+&nbsp;
+<a href="https://stackoverflow.com/users/19376176/amr-saad-abdallah"><img src="https://img.shields.io/badge/Stackoverflow-F48225?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" /></a>
+&nbsp;
+<a href="https://dev.to/amrsaadabdallah"><img src="https://img.shields.io/badge/DEV.to-000000?style=for-the-badge&logo=DEV.to&logoColor=white" alt="DEV.to" /></a>
+&nbsp;
 </p>
+
+<!-- <img src="Assets/ruler.gif">
+
+<i>Follow me around the web:</i><br>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/absphreak" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/absphreak" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.facebook.com/originalphreak" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank">
+<img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
+</a>
+<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+</div>
+
+<img src="Assets/ruler.gif"> -->
+
+<!-- ### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+</p> -->
+
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=amrsaadabdallah.amrsaadabdallah) -->
+<!-- [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664) -->
