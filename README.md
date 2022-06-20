@@ -16,7 +16,7 @@
 </p>
 
 <h1 align="center">Hello 👋, I'm Amr Saad Saad Abdallah</h1>
-<h3 align="center">A passionate Frontend developer from Egypt</h3>
+<h3 align="center" style="font-style:italic">A passionate Frontend developer from Egypt</h3>
 
 <br />
 
@@ -36,10 +36,10 @@
 
 <img src="./assets/ruler.gif">
 
-<h3 align="center">👨‍💻&nbsp;Profile Overview: </h3>
+<h2 align="center">👨‍💻&nbsp;Profile Overview: </h2>
 
 <div align=left style="font-style: italic; font-weight: 600; margin-top: 20px;margin-left: 10px">
-    <p style="font-size: 18px">
+    <p style="font-size: 20px; font-weight: 600">
      Hello, this is <a href="https://amrsaadabdallah.github.io">Amr Saad Abdallah</a> a Frontend developer from Egypt and I have a passion for programming and code, always looking for new tools and improve my skills through continuous self-learning and code a long, design responsive websites using HTML5, CSS3, Sass, Bootstrap, Tailwind CSS, JavaScript, ES6, and also JS frameworks like ReactJS.
       <br><br>
       I'm  seeking a job opportunity in a supportive and co-operative environment in Web Development field as a new challenge, where I can utilize my skills and knowledge efficiently for organizational growth and enable me taking significant contribution at the company that I will join and help me to achieve more progress and success.
