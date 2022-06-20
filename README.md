@@ -22,7 +22,7 @@
 
 <img align="right" alt="GIF" width="400"  height="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  />
 
-### ⚡&nbsp;About Me:
+### 🧑&nbsp;About Me:
 
 - 👨‍💻 **I’m currently working as a freelancer frontend developer and Instructor.**.
 - 🌱 **I’m currently self-study**: Typescript & NextJS.
@@ -292,8 +292,6 @@
 </p> -->
 
 <img src="./assets/ruler.gif">
-
-<br>
 
  <h3>🤝🏻&nbsp;Contact with Me : </h3>
 
