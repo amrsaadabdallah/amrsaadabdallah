@@ -304,9 +304,9 @@
 &nbsp;
 <a href="https://twitter.com/amrsaadabdallah"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 &nbsp;
-<a href="tel:01097756067"><img src="https://img.shields.io/badge/whatsapp-45C554?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
+<a href="tel::01097756067"><img src="https://img.shields.io/badge/whatsapp-45C554?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
 &nbsp;
-<a href="mailto::amrsaadabdallah@gmail.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://medium.com/@amrsaadabdallah"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 &nbsp;
 <a href="https://stackoverflow.com/users/19376176/amr-saad-abdallah"><img src="https://img.shields.io/badge/Stackoverflow-F48225?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" /></a>
 &nbsp;
