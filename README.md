@@ -36,7 +36,7 @@
 
 <img src="./assets/ruler.gif">
 
-<h3 >👨‍💻&nbsp;Profile Overview: </h3>
+<h3 align="center">👨‍💻&nbsp;Profile Overview: </h3>
 
 <div align=left style="font-style: italic; font-weight: 600; margin-top: 20px;margin-left: 10px">
     <p style="font-size: 18px">
@@ -198,37 +198,37 @@
 
 <p align="center">
 <a href="https://github.com/amrsaadabdallah">
- <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amrsaadabdallah&theme=github"/>
+ <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amrsaadabdallah&theme=tokyonight"/>
 
-   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amrsaadabdallah&theme=github"/>
+   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amrsaadabdallah&theme=tokyonight"/>
 
-  <!-- <img height="180em" alt="amrsaadabdallah's Github Statistics" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amrsaadabdallah&show_icons=true&theme=github&include_all_commits=true&count_private=true"/> -->
+  <!-- <img height="180em" alt="amrsaadabdallah's Github Statistics" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amrsaadabdallah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
 
-  <!-- <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amrsaadabdallah&theme=github"/> -->
+  <!-- <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amrsaadabdallah&theme=tokyonight"/> -->
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amrsaadabdallah&layout=compact&langs_count=8&theme=github"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amrsaadabdallah&layout=compact&langs_count=8&theme=tokyonight"/>
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=amrsaadabdallah&theme=github&date_format=j%20M%5B%20Y%5D"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=amrsaadabdallah&theme=tokyonight&date_format=j%20M%5B%20Y%5D"/>
 
-   <!-- <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amrsaadabdallah&theme=github&utcOffset=8"/> -->
+   <!-- <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amrsaadabdallah&theme=tokyonight&utcOffset=8"/> -->
 </a>
 </p>
 
 <!-- ### 📊 Github Stats
 
   <p align="center">
-    <a href="https://github.com/amrsaadabdallah/github-readme-stats"><img alt="amrsaadabdallah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amrsaadabdallah&show_icons=true&count_private=true&theme=github" height="192px"/></a>
+    <a href="https://github.com/amrsaadabdallah/github-readme-stats"><img alt="amrsaadabdallah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amrsaadabdallah&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
   </p> -->
 
 <!-- ### 📈 GitHub Activity Graph
 
-<a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amrsaadabdallah&custom_title=7oSkaaa's%20Contribution%20Graph&theme=github" /></a> -->
+<a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amrsaadabdallah&custom_title=7oSkaaa's%20Contribution%20Graph&theme=tokyonight" /></a> -->
 
 <img src="./assets/ruler.gif">
 
 ### 🏆 Git profile Trophies
 
-<p align="center"> <a href="https://github.com/amrsaadabdallah"><img src="https://github-profile-trophy.vercel.app/?username=amrsaadabdallah&layout=compact&theme=github" alt="amrsaadabdallah" /></a> </p>
+<p align="center"> <a href="https://github.com/amrsaadabdallah"><img src="https://github-profile-trophy.vercel.app/?username=amrsaadabdallah&layout=compact&theme=tokyonight" alt="amrsaadabdallah" /></a> </p>
 
 <!-- <img src="./assets/ruler.gif">
 
