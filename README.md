@@ -1,53 +1,28 @@
-<div  align="center">
-<!-- <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  /> -->
-<img src="assets/banner.png" alt="amr saad banner">
-</div>
-
-<br/>
+<img src="./assets/banner.png" alt="amr saad banner">
+<br />
 
  <p align="center">
-<a href="github.com/amrsaadabdallah">
-    <img alt="=npm" src="https://visitor-badge.glitch.me/badge?page_id=amrsaadabdallah.amrsaadabdallah" height="27px"/>
-  </a>
- &emsp;
-<a href="github.com/amrsaadabdallah" target="_blank" rel="noreferrer"> <img alt="account age" src="https://badges.pufler.dev/years/amrsaadabdallah/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"/> </a>
-&emsp;
+<!-- <a href="github.com/amrsaadabdallah" target="_blank" rel="noreferrer"> <img alt="account age" src="https://badges.pufler.dev/years/amrsaadabdallah/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"/> </a>
+&emsp; -->
 <a href="github.com/amrsaadabdallah" target="_blank" rel="noreferrer"> <img alt="public repos" src="https://badges.pufler.dev/repos/amrsaadabdallah/?style=for-the-badge&color=27a4fb&logo=github&label=Public+Repos"/> </a>
 &emsp;
 <a href="github.com/amrsaadabdallah" target="_blank" rel="noreferrer"> <img alt="profile updated" src="https://badges.pufler.dev/updated/amrsaadabdallah/amrsaadabdallah?style=for-the-badge&color=27a4fb&logo=github&label=Profile+Updated"/> </a>
 &emsp;
+<a href="github.com/amrsaadabdallah">
+    <img alt="=npm" src="https://visitor-badge.glitch.me/badge?page_id=amrsaadabdallah.amrsaadabdallah" height="27px"/>
+  </a>
+ &emsp;
 <a href="github.com/amrsaadabdallah" target="_blank" rel="noreferrer"> <img alt="followers" src="https://img.shields.io/github/followers/amrsaadabdallah?label=Follow&style=social" height="27px"/> </a>
 </p>
 
 <h1 align="center">Hello 👋, I'm Amr Saad Saad Abdallah</h1>
-<h4 align="center">A passionate Frontend developer from Egypt</h4>
+<h3 align="center">A passionate Frontend developer from Egypt</h3>
 
- <!-- <p align="center">
- <a href="github.com/amrsaadabdallah" target="blank"><img
-     src="https://visitor-badge.glitch.me/badge?page_id=amrsaadabdallah.amrsaadabdallah"
-     alt="github visitors" /></a>
-
-<a href="github.com/amrsaadabdallah" target="blank"><img
-     src="https://badges.pufler.dev/years/amrsaadabdallah/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
-     alt="account age" /></a>
-
-<a href="github.com/amrsaadabdallah" target="blank"><img
-     src="https://badges.pufler.dev/repos/amrsaadabdallah/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
-     alt="repos" /></a>
-
-<a href="github.com/amrsaadabdallah" target="blank"><img
-     src="https://badges.pufler.dev/updated/amrsaadabdallah/amrsaadabdallah?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
-     alt="updated" /></a>
-
- </p> -->
-
-<!-- <br> -->
-
-<!-- <img src="Assets/ruler.gif"> -->
+<br />
 
 <img align="right" alt="GIF" width="400"  height="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  />
 
-###⚡&nbsp;About Me:
+### ⚡&nbsp;About Me:
 
 - 👨‍💻 **I’m currently working as a freelancer frontend developer and Instructor.**.
 - 🌱 **I’m currently self-study**: Typescript & NextJS.
@@ -59,12 +34,12 @@
 - 💬 **Ask me about anything:** <a href="mailto:amrsaadabdallah@gmail.com">Email Me</a> with title **"Ask"** and I will be happy to help you.
 - ⚡ **Fun fact**: I love Codeing(💻), Traveling(🌍), Walking(🚶‍♂️) and Cooking(🍕).
 
-<img src="Assets/ruler.gif">
+<img src="./assets/ruler.gif">
 
 <h3 >👨‍💻&nbsp;Profile Overview: </h3>
 
 <div align=left style="font-style: italic; font-weight: 600; margin-top: 20px;margin-left: 10px">
-    <p>
+    <p style="font-size: 18px">
      Hello, this is <a href="https://amrsaadabdallah.github.io">Amr Saad Abdallah</a> a Frontend developer from Egypt and I have a passion for programming and code, always looking for new tools and improve my skills through continuous self-learning and code a long, design responsive websites using HTML5, CSS3, Sass, Bootstrap, Tailwind CSS, JavaScript, ES6, and also JS frameworks like ReactJS.
       <br><br>
       I'm  seeking a job opportunity in a supportive and co-operative environment in Web Development field as a new challenge, where I can utilize my skills and knowledge efficiently for organizational growth and enable me taking significant contribution at the company that I will join and help me to achieve more progress and success.
@@ -80,11 +55,11 @@
   </p>
 </div>
 
-<img src="Assets/ruler.gif">
+<img src="./assets/ruler.gif">
 
 <h2 align="center">🛠️ My Skills</h2>
 
-<h4>👉&nbsp;Languages:</h4>
+<h3>👉&nbsp;Languages:</h3>
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -107,7 +82,7 @@
   </a>
 </p>
 
-<h4>👉&nbsp;CSS/UI frameworks : </h4>
+<h3>👉&nbsp;CSS/UI frameworks : </h3>
 <p>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-533979?style=for-the-badge&logo=Bootstrap&logoColor=white"/> </a>
 &emsp;
@@ -116,7 +91,7 @@
   </a>
 </p>
 
-<h4>👉&nbsp;JS Libraries : </h4>
+<h3>👉&nbsp;JS Libraries : </h3>
 <p>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  <img alt="React" src="https://img.shields.io/badge/React-00d8ff?style=for-the-badge&logo=React&logoColor=white"/> </a>
 &emsp;
@@ -133,17 +108,16 @@
   </a>
 </p>
 
-<h4>👉&nbsp;Bundling tools </h4>
+<h3>👉&nbsp;Bundling tools </h3>
 <p>
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer">  <img alt="Webpack" src="https://img.shields.io/badge/Webpack-00d8ff?style=for-the-badge&logo=Webpack&logoColor=white"/> </a>
 &emsp;
 <a href="https://parceljs.org/">
     <img alt="=parceljs" src="https://img.shields.io/badge/parceljs-764ABC?style=for-the-badge&logo=parceljs&logoColor=white"/>
   </a>
-  &emsp;
-  </p>
+</p>
 
-<h4>👉&nbsp;Formating, Linting & transpiling Tools</h3>
+<h3>👉&nbsp;Formating, Linting & transpiling Tools</h3>
 <p>
 <a href="https://prettier.io/" target="_blank" rel="noreferrer">  <img alt="prettier" src="https://img.shields.io/badge/prettier-56B3B4?style=for-the-badge&logo=prettier&logoColor=white"/> </a>
 &emsp;
@@ -153,9 +127,12 @@
     <img alt="=babeljs" src="https://img.shields.io/badge/babel-EACF3B?style=for-the-badge&logo=babel&logoColor=white"/>
   </a>
   &emsp;
-  </p>
+  <a href="https://sass-lang.com">
+    <img alt="=Sass" src="https://img.shields.io/badge/Sass-EACF3B?style=for-the-badge&logo=Sass&logoColor=white"/>
+  </a>
+</p>
 
-<h4 >👉&nbsp;Version control systems:</h4>
+<h3>👉&nbsp;Version control systems:</h3>
 <p>
 <a href="https://git-scm.com" target="_blank" rel="noreferrer">
 <img alt="Git" src="https://img.shields.io/badge/Git-c9510c?style=for-the-badge&logo=Git&logoColor=white"/>
@@ -165,20 +142,18 @@
     <img alt="=Github"
     src="https://img.shields.io/badge/Github-4078c0?style=for-the-badge&logo=Github&logoColor=white"/>
   </a>
-  &emsp;
 </p>
 
-<h4>👉 &nbsp; Task runners:</h4>
+<h3>👉 &nbsp; Task runners:</h3>
 <p>
 <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img alt="Gulp" src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=Gulp&logoColor=white"/> </a>
 &emsp;
 <a href="https://docs.npmjs.com/cli/v8/using-npm/scripts">
 <img alt="=npm scripts" src="https://img.shields.io/badge/NPM scripts-333333?style=for-the-badge&logo=NPM&logoColor=white"/>
 </a>
-&emsp;
 </p>
 
-<h4>👉&nbsp;Package Managers:</h4>
+<h3>👉&nbsp;Package Managers:</h3>
 <p>
 <a href="https://docs.npmjs.com">
     <img alt="=npm" src="https://img.shields.io/badge/NPM-333333?style=for-the-badge&logo=NPM&logoColor=white"/>
@@ -187,7 +162,7 @@
 <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white"/> </a>
 </p>
 
-<h4>👉&nbsp;IDEs:</h4>
+<h3>👉&nbsp;IDEs:</h3>
 <p>
 <a href="https://code.visualstudio.com">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/visualstudiocode-0066B8?style=for-the-badge&logo=visual studio code&logoColor=white"/>
@@ -202,7 +177,7 @@
 </a>
 </p>
 
-<h4>👉&nbsp;Task manager:</h4>
+<h3>👉&nbsp;Task manager:</h3>
 <p>
 <a href="https://code.visualstudio.com">
     <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
@@ -217,7 +192,7 @@
 </a>
 </p>
 
-<img src="Assets/ruler.gif">
+<img src="./assets/ruler.gif">
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -249,13 +224,14 @@
 
 <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amrsaadabdallah&custom_title=7oSkaaa's%20Contribution%20Graph&theme=github" /></a> -->
 
-<img src="Assets/ruler.gif">
+<img src="./assets/ruler.gif">
 
 ### 🏆 Git profile Trophies
 
 <p align="center"> <a href="https://github.com/amrsaadabdallah"><img src="https://github-profile-trophy.vercel.app/?username=amrsaadabdallah&layout=compact&theme=github" alt="amrsaadabdallah" /></a> </p>
 
-<!-- <img src="Assets/ruler.gif">
+<!-- <img src="./assets/ruler.gif">
+
 
 <br />
  <h2 align="center">😎 you can reach me by:</h2>
@@ -315,14 +291,14 @@
 
 </p> -->
 
-<br>
-<img src="Assets/ruler.gif">
+<img src="./assets/ruler.gif">
+
 <br>
 
- <h4>🤝🏻&nbsp;Contact with Me : </h4>
+ <h3>🤝🏻&nbsp;Contact with Me : </h3>
 
 <p align="center">
-<a href="https://amrsaadabdallah.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
+<a href="https://amrsaadabdallah.github.io"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
 &nbsp;
 <a href="mailto:amrsaadabdallah@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 &nbsp;
@@ -330,7 +306,7 @@
 &nbsp;
 <a href="https://twitter.com/amrsaadabdallah"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 &nbsp;
-<a href="tel::01097756067"><img src="https://img.shields.io/badge/whatsapp-45C554?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
+<a href="tel:01097756067"><img src="https://img.shields.io/badge/whatsapp-45C554?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
 &nbsp;
 <a href="mailto::amrsaadabdallah@gmail.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 &nbsp;
@@ -340,7 +316,8 @@
 &nbsp;
 </p>
 
-<!-- <img src="Assets/ruler.gif">
+<!-- <img src="./assets/ruler.gif">
+
 
 <i>Follow me around the web:</i><br>
 
@@ -360,7 +337,8 @@
 <a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 </div>
 
-<img src="Assets/ruler.gif"> -->
+<img src="./assets/ruler.gif">
+ -->
 
 <!-- ### 🤝🏻 &nbsp;Connect with Me
 
