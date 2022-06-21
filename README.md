@@ -1,4 +1,5 @@
 <img src="./assets/banner.png" alt="amr saad banner">
+<!-- <img src="https://raw.githubusercontent.com/amrsaadabdallah/amrsaadabdallah/main/assets/banner.png" alt="amr saad banner"> -->
 <br />
 
  <p align="center">
@@ -19,6 +20,7 @@
 <br />
 
 <img align="right" alt="GIF" width="400"  height="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  />
+<!-- <img align="right" alt="GIF" width="400"  height="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"  /> -->
 
 ### 🧑&nbsp;About Me:
 
@@ -33,6 +35,7 @@
 - ⚡ **Fun fact**: I love Codeing(💻), Traveling(🌍), Walking(🚶‍♂️) and Cooking(🍕).
 
 <img src="./assets/ruler.gif">
+<!-- <img src="https://raw.githubusercontent.com/amrsaadabdallah/amrsaadabdallah/main/assets/ruler.gif"> -->
 
 <h2 align="center">👨‍💻&nbsp;Profile Overview: </h2>
 
@@ -54,6 +57,7 @@
 </div>
 
 <img src="./assets/ruler.gif">
+<!-- <img src="https://raw.githubusercontent.com/amrsaadabdallah/amrsaadabdallah/main/assets/ruler.gif"> -->
 
 <h2 align="center">🛠️ My Skills</h2>
 
@@ -191,6 +195,7 @@
 </p>
 
 <img src="./assets/ruler.gif">
+<!-- <img src="https://raw.githubusercontent.com/amrsaadabdallah/amrsaadabdallah/main/assets/ruler.gif"> -->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -207,12 +212,14 @@
 </p>
 
 <img src="./assets/ruler.gif">
+<!-- <img src="https://raw.githubusercontent.com/amrsaadabdallah/amrsaadabdallah/main/assets/ruler.gif"> -->
 
 ### 🏆 Git profile Trophies
 
 <p align="center"> <a href="https://github.com/amrsaadabdallah"><img src="https://github-profile-trophy.vercel.app/?username=amrsaadabdallah&layout=compact&theme=tokyonight" alt="amrsaadabdallah" /></a> </p>
 
 <img src="./assets/ruler.gif">
+<!-- <img src="https://raw.githubusercontent.com/amrsaadabdallah/amrsaadabdallah/main/assets/ruler.gif"> -->
 
  <h3>🤝🏻&nbsp;Contact with Me : </h3>
 
