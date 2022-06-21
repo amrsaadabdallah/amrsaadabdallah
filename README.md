@@ -2,15 +2,15 @@
 <br />
 
  <p align="center">
-<a href="github.com/amrsaadabdallah" target="_blank" rel="noreferrer"> <img alt="public repos" src="https://badges.pufler.dev/repos/amrsaadabdallah/?style=for-the-badge&color=27a4fb&logo=github&label=Public+Repos"/> </a>
+<a href="https://github.com/amrsaadabdallah" target="_blank" rel="noreferrer"> <img alt="public repos" src="https://badges.pufler.dev/repos/amrsaadabdallah/?style=for-the-badge&color=27a4fb&logo=github&label=Public+Repos"/> </a>
 &emsp;
-<a href="github.com/amrsaadabdallah" target="_blank" rel="noreferrer"> <img alt="profile updated" src="https://badges.pufler.dev/updated/amrsaadabdallah/amrsaadabdallah?style=for-the-badge&color=27a4fb&logo=github&label=Profile+Updated"/> </a>
+<a href="https://github.com/amrsaadabdallah" target="_blank" rel="noreferrer"> <img alt="profile updated" src="https://badges.pufler.dev/updated/amrsaadabdallah/amrsaadabdallah?style=for-the-badge&color=27a4fb&logo=github&label=Profile+Updated"/> </a>
 &emsp;
-<a href="github.com/amrsaadabdallah">
+<a href="https://github.com/amrsaadabdallah">
     <img alt="=npm" src="https://visitor-badge.glitch.me/badge?page_id=amrsaadabdallah.amrsaadabdallah" height="27px"/>
   </a>
  &emsp;
-<a href="github.com/amrsaadabdallah" target="_blank" rel="noreferrer"> <img alt="followers" src="https://img.shields.io/github/followers/amrsaadabdallah?label=Follow&style=social" height="27px"/> </a>
+<a href="https://github.com/amrsaadabdallah" target="_blank" rel="noreferrer"> <img alt="followers" src="https://img.shields.io/github/followers/amrsaadabdallah?label=Follow&style=social" height="27px"/> </a>
 </p>
 
 <h1 align="center">Hello 👋, I'm Amr Saad Saad Abdallah</h1>
