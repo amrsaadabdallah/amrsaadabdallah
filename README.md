@@ -14,7 +14,7 @@
 <a href="https://github.com/amrsaadabdallah" target="_blank" rel="noreferrer"> <img alt="followers" src="https://img.shields.io/github/followers/amrsaadabdallah?label=Follow&style=social" height="27px"/> </a>
 </p>
 
-<h1 align="center">Hello 👋, I'm Amr Saad Saad Abdallah</h1>
+<h1 align="center">Hello 👋, I'm Amr Saad Abdallah</h1>
 <h3 align="center" style="font-style:italic">A passionate Frontend developer from Egypt</h3>
 
 <br />
