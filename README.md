@@ -69,10 +69,10 @@
   <a href="https://www.tutorialspoint.com/cprogramming/index.htm">
       <img alt="C" src="https://img.shields.io/badge/Programming-5766B6?style=for-the-badge&logo=C&logoColor=white"/>
     </a>
-  &emsp;
+  <!-- &emsp;
   <a href="https://www.python.org">
       <img alt="Python" src="https://img.shields.io/badge/ Python-F2A22C?style=for-the-badge&logo=python&logoColor=white"/>
-    </a>
+    </a> -->
   </p>
 
 
